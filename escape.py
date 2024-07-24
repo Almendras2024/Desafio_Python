@@ -1,6 +1,6 @@
 import math
 
-# Función para calcular la velocidad de escape
+# Función para calcular la velocidad de escape.
 def calcular_velocidad_escape(radio_km, constante_g):
 
     # Convertir el radio de kilómetros a metros
